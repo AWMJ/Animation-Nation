@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+   {
+    artName: 'AJsDancingBalls',
+    pageLink: './Art/AJsDancingBalls/index.html',
+    imageLink: './Art/AJsDancingBalls/AJsDancingBallsGif.gif',
+    author: 'AWMJ',
+    githubLink: 'https://github.com/AWMJ'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
